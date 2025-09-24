@@ -13,6 +13,19 @@ nav {
  
 }
 
+h1{
+  color: black;
+  padding-top: 150px;
+
+}
+
+li{
+  color: black;
+  font-size: 20px;
+}
+
+
+
 
 .navspace {
   padding-top: 30px;
